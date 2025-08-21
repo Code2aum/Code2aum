@@ -1,5 +1,5 @@
 Hi there, I'm Harshith Ravi Kopparam 👋
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/harshith-r-kopparam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://www.linkedin.com/in/harshith-r-kopparam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
 
 I'm a Computer Science graduate student at the University of California, Santa Cruz, specializing in Artificial Intelligence and Deep Learning. I'm passionate about building intelligent systems that solve real-world problems and exploring the intersection of logical reasoning and LLMs.
 
