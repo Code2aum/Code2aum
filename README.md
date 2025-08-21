@@ -40,5 +40,9 @@ I'm a Computer Science graduate student at the University of California, Santa C
 
 📫 Get In Touch
 Email: hravikop@ucsc.edu
+<p>
 <a href="https://www.linkedin.com/in/harshith-r-kopparam-057024229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://sites.google.com/ds.study.iitm.ac.in/harshithravikopparam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Website&logoColor=Red" /></a>
+<a href="https://sites.google.com/ds.study.iitm.ac.in/harshithravikopparam/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
