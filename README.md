@@ -3,11 +3,7 @@ Hi there, I'm Harshith Ravi Kopparam 👋
 
 I'm a Computer Science graduate student at the University of California, Santa Cruz, specializing in Artificial Intelligence and Deep Learning. I'm passionate about building intelligent systems that solve real-world problems and exploring the intersection of logical reasoning and LLMs.
 
-📊 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DCode2aum%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Harshith's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCode2aum%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages" />
-</p>
+
 
 🔧 Skills & Tools
 💻 Languages & Databases
